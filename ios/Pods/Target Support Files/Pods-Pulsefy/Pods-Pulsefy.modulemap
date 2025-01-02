@@ -1,0 +1,6 @@
+module Pods_Pulsefy {
+  umbrella header "Pods-Pulsefy-umbrella.h"
+
+  export *
+  module * { export * }
+}

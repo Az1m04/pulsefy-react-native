@@ -1,0 +1,6 @@
+module Pods_Pulsefy_PulsefyTests {
+  umbrella header "Pods-Pulsefy-PulsefyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
